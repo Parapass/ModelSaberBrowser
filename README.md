@@ -3,6 +3,8 @@
 
 An Electron-based app that allows you to browse ModelSaber models.
 
+![ModelSaber Browser](https://raw.githubusercontent.com/Parapass/ModelSaberBrowser/master/build/modelsaberbrowser.png)
+
 # Development
 Dependancies: Electron, Electron Builder
 
