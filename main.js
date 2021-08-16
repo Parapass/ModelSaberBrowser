@@ -9,10 +9,7 @@ function createWindow () {
   let win = new BrowserWindow({
     width: 1280,
     height: 720,
-    transparent: true,
-    webPreferences: {
-      frame: false
-    }
+    transparent: true
   })
   
   win.removeMenu()
