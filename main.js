@@ -9,8 +9,9 @@ function createWindow () {
   let win = new BrowserWindow({
     width: 1280,
     height: 720,
+    transparent: true,
     webPreferences: {
-      frame: true
+      frame: false
     }
   })
   
