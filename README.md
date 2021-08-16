@@ -1,4 +1,4 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/parapass/modelsaber-browser/total)
-# Deprecation Notice
+# ModelSaber Browser
 
-Due to the simplicity of the app, I will no longer be updating the repository with new updates.
+An Electron-based app that allows you to browse ModelSaber models.
