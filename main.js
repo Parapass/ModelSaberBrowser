@@ -14,7 +14,7 @@ function createWindow () {
   
   win.removeMenu()
   win.loadURL('https://modelsaber.com');
-  win.setIcon('/browser/icon.ico');
+  win.setIcon('/build/icon.ico');
 }
 
 app.whenReady().then(createWindow)
